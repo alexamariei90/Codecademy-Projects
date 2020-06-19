@@ -1,0 +1,9 @@
+Steps for this first project:
+1. Decided to do the project called CheatSheet about input types and input attributes
+2. Draw a draft on paper 
+3. Search w3schools.com for technical content
+4. Start writing the HTML in Visual Studio Code and always check how the content displays in browser
+5. Start writitng the CSS rules
+6. Share the project on GtTHub: 
+    - Learn how to do that
+    - Learn how to add relative links because of my background-image local links :*?
